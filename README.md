@@ -54,3 +54,12 @@ Com o intuito de padronizar o fluxo de comunicação nesse processo, é estabele
 Deletando um arquivo | Modificando um arquivo | Substituindo um arquivo |
 :---: | :---: | :---: | 
 DEL-BREVE JUSTIFICATIVA | MOD-PRÉVIA DA MODIFICAÇÃO REALIZADA |  SUB-BREVE DESCRIÇÃO DO ARQUIVO ATUAL |
+
+## 5 controle de tipos de arquivos
+Nesse documento os arquivos estão padronizados da seguinte maneira.
+
+Tipo de documento | Formato adotado |
+:---: | :---: | 
+Template | .docx |
+Definição gráfica de atividades | .png |
+Template | .docx .xlsx |
