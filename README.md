@@ -1,8 +1,5 @@
-# processo-sw-2017-2
+# Qualidade-SW-2017-2
 Plano de Gerência de Configuração de Software. 
-
-## Mapa de arquivos
-![](link da imagem)  
 
 ## 1. Introdução
 Esse documento tem como finalidade apresentar as políticas do projeto para controle de gerência de configuração e mudança.
