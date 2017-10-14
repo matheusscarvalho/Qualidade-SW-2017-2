@@ -60,6 +60,5 @@ Nesse documento os arquivos estão padronizados da seguinte maneira.
 
 Tipo de documento | Formato adotado |
 :---: | :---: | 
-Template | .docx |
 Definição gráfica de atividades | .png |
 Template | .docx .xlsx |
